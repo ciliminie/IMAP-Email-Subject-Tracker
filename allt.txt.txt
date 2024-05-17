@@ -1,0 +1,1 @@
+outlook.office365.com|993|true|r@outlook.fr|300@@
